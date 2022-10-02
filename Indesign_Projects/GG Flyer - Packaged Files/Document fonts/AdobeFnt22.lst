@@ -1,0 +1,123 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Indesign\Indesign_Projects\GG Flyer - Packaged Files\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:231312
+FileModTime:1464325426
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Indesign\Indesign_Projects\GG Flyer - Packaged Files\Document fonts\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:980756
+FileModTime:1575709706
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-Black
+FamilyName:Arial
+StyleName:Black
+FullName:Arial Black
+MenuName:Arial Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Indesign\Indesign_Projects\GG Flyer - Packaged Files\Document fonts\ariblk.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:167592
+FileModTime:1575709706
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Black
+NameArray:0,Win,1,Arial Black
+NameArray:0,Win,16,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cambria
+FamilyName:Cambria
+StyleName:Regular
+FullName:Cambria
+MenuName:Cambria
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Indesign\Indesign_Projects\GG Flyer - Packaged Files\Document fonts\cambria.ttc
+TTCOffset:32
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1792664
+FileModTime:1575709706
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cambria
+NameArray:0,Win,1,Cambria
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cambria-Bold
+FamilyName:Cambria
+StyleName:Bold
+FullName:Cambria Bold
+MenuName:Cambria
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Indesign\Indesign_Projects\GG Flyer - Packaged Files\Document fonts\cambriab.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:841440
+FileModTime:1575709717
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cambria Bold
+NameArray:0,Win,1,Cambria
+%EndFont
+
